@@ -16,3 +16,11 @@ This is a simple React application that allows users to change the background co
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/react-background-color-changer.git
+
+2. Install the dependencies:
+   ```bash
+    npm install
+
+3. Start the development server:
+   ```bash
+   spm start
